@@ -81,4 +81,4 @@ recipe_chatbot/
 
 ## License
 
-MIT License (or your preferred license) 
+MIT License.
