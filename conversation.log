@@ -1,0 +1,31 @@
+2025-07-11 15:11:05,732 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-07-11 15:11:06,150 - INFO - Use pytorch device: cpu
+2025-07-11 15:11:25,613 - INFO - Chatbot initialized successfully
+2025-07-11 15:11:33,060 - INFO - Received user input: Hello...
+2025-07-11 15:11:33,060 - INFO - Processing user input (length: 5 characters)
+2025-07-11 15:11:33,089 - INFO - Returning special response: greeting
+2025-07-11 15:11:37,565 - INFO - Received user input: Give me pasta recipes with beef...
+2025-07-11 15:11:37,565 - INFO - Processing user input (length: 31 characters)
+2025-07-11 15:11:37,690 - INFO - Filtered recipes count: 88
+2025-07-11 15:11:37,692 - INFO - Returning 3 recipe recommendations
+2025-07-11 15:11:47,743 - INFO - Received user input: Show me quick vegan desserts...
+2025-07-11 15:11:47,743 - INFO - Processing user input (length: 28 characters)
+2025-07-11 15:11:47,768 - INFO - Filtered recipes count: 21417
+2025-07-11 15:11:47,769 - INFO - Returning 3 recipe recommendations
+2025-07-11 15:11:54,532 - INFO - Received user input: I want Italian chicken recipes please...
+2025-07-11 15:11:54,532 - INFO - Processing user input (length: 37 characters)
+2025-07-11 15:11:54,789 - INFO - Filtered recipes count: 213
+2025-07-11 15:11:54,790 - INFO - Returning 3 recipe recommendations
+2025-07-11 15:12:00,486 - INFO - Received user input: Italian...
+2025-07-11 15:12:00,487 - INFO - Processing user input (length: 7 characters)
+2025-07-11 15:12:00,633 - INFO - Filtered recipes count: 1211
+2025-07-11 15:12:00,633 - INFO - Returning 3 recipe recommendations
+2025-07-11 15:12:05,192 - INFO - Received user input: Chicken and rice...
+2025-07-11 15:12:05,192 - INFO - Processing user input (length: 16 characters)
+2025-07-11 15:12:05,375 - INFO - Filtered recipes count: 319
+2025-07-11 15:12:05,375 - INFO - Returning 3 recipe recommendations
+2025-07-11 15:12:13,979 - INFO - Received user input: Thank you, exit...
+2025-07-11 15:12:13,979 - INFO - Processing user input (length: 15 characters)
+2025-07-11 15:12:13,995 - INFO - Returning special response: goodbye
+2025-07-11 15:12:18,860 - INFO - Received user input: exit...
+2025-07-11 15:12:18,860 - INFO - Chatbot session ended by user
